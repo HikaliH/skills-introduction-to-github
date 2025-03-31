@@ -1,3 +1,4 @@
+#fish thing! hopefully it still works!
 #Background
 app.background = ('lightCyan')
 #white part on top
